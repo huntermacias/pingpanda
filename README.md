@@ -23,15 +23,11 @@ Built with the Next.js App Router, Postgres, TypeScript, Tailwind & Clerk
 To get started with this project, run
 
 ```bash
-  git clone https://github.com/joschan21/pingpanda.git
+  git clone https://github.com/huntermacias/pingpanda.git
 ```
 
 and copy the .env.example variables into a separate .env file, fill them out & and that's all you need to get started!
 
-
-## Acknowledgements
-
-- [Clerk](https://link.joshtriedcoding.com/clerk) for making this project possible
 
 ## License
 
